@@ -1,1 +1,1 @@
-# gm_c
+# fft-spectrum-visualizer
